@@ -1,0 +1,19 @@
+{
+    "PAYMENT": {
+        "CARD": "",
+        "EMAIL_LINK_CARD": "",
+        "PASSWEMAIL_LINK_CARD": "",
+        "IMAP_URL": "imap.gmail.com"
+    },
+    "ACCOUNT": {
+        "EMAIL_DOMAIN": "maihuybao.dev",
+        "EMAIL": "",
+        "PASSWORD": "",
+        "IMAP_URL": "imap.gmail.com"
+    },
+    "CLOUDFLARE": {
+        "EMAIL": "",
+        "APIKEY": "",
+        "ID": ""
+    }
+}
